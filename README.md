@@ -1,6 +1,6 @@
 ![image](https://github.com/user-attachments/assets/7dcf3484-730e-4240-8aa7-8773ee546c97)
 
-# CursorConfigurationforAgenticEngineering-SPARCTrifecta
+# CursorConfigurationforAgenticEngineering-SPARCTrifecta - Made with Claude
 Cursor Configuration for Agentic Engineering &amp; SPARC Trifecta - ransform Cursor into the Ultimate SPARC Implementation Engine
 
 *Transform Cursor into the Ultimate SPARC Implementation Engine*
